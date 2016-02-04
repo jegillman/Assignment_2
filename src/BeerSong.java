@@ -1,7 +1,7 @@
 public class BeerSong {
 
     public static void main(String[] args) {
-        Ninety_Nine_Bottles_of_Beer(99);
+        
     }
 
     public static int Ninety_Nine_Bottles_of_Beer(int count) {
